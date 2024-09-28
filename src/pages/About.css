@@ -1,0 +1,45 @@
+.container_about {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 100vh;
+    padding: 20px;
+}
+
+
+.title2 {
+    border-radius: 5px;
+    font-family: roboto;
+    font-size: 70px;
+    text-shadow: 0 0 1px black;
+    position: absolute;
+    left: 3%;
+    top: 10%;
+}
+
+.image2 {
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%); 
+    margin: 10px; 
+    width: 800px; 
+    height: auto; 
+}
+
+.container_about .fein {
+    font-size: 20px;
+    padding-top: 85px;
+}
+
+.fein {
+    border-radius: 5px;
+    font-family: roboto;
+    text-shadow: 0 0 1px black;
+    text-align: left; 
+    position: absolute;
+    left: -20%;
+    top: 16.5%;
+    padding-right: 750px;
+}

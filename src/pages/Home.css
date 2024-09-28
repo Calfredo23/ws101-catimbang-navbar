@@ -1,0 +1,38 @@
+html{
+    background-color: #E1E8E4;
+}
+
+.container {
+    position: relative;
+    width: 98.5%;
+    height: auto;
+    background-color: #E1E8E4;
+}
+
+.container p {
+    font-size: 15px;
+    padding-top: 140px;
+    padding-left: 370px;
+    font-style: italic;
+}
+
+.title {
+    position: absolute;
+    top: 40px; 
+    left: 500px;
+    transform: translateX(-50%);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 5px;
+    font-family: roboto;
+    font-size: 70px;
+    text-shadow: 0 0 1px black;
+}
+
+.image {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 220px; 
+    left: 530px;
+}
