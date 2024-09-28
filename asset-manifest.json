@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ws101-catimbang-navbar/static/css/main.27900cbd.css",
+    "main.css": "/ws101-catimbang-navbar/static/css/main.8cfe2543.css",
     "main.js": "/ws101-catimbang-navbar/static/js/main.195523ab.js",
     "static/media/roblox_about.png": "/ws101-catimbang-navbar/static/media/roblox_about.0400f0b8c0a75f9c15a9.png",
     "static/media/computer.png": "/ws101-catimbang-navbar/static/media/computer.73f7eb87aa2e74d29f19.png",
     "static/media/roblox_logo.png": "/ws101-catimbang-navbar/static/media/roblox_logo.c69f0e62f2b08ec10687.png",
     "index.html": "/ws101-catimbang-navbar/index.html",
-    "main.27900cbd.css.map": "/ws101-catimbang-navbar/static/css/main.27900cbd.css.map",
+    "main.8cfe2543.css.map": "/ws101-catimbang-navbar/static/css/main.8cfe2543.css.map",
     "main.195523ab.js.map": "/ws101-catimbang-navbar/static/js/main.195523ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.27900cbd.css",
+    "static/css/main.8cfe2543.css",
     "static/js/main.195523ab.js"
   ]
 }
