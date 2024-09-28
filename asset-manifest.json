@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/calfredo23/ws101-catimbang-navbar/static/css/main.27900cbd.css",
-    "main.js": "/calfredo23/ws101-catimbang-navbar/static/js/main.5bbeeac3.js",
+    "main.js": "/calfredo23/ws101-catimbang-navbar/static/js/main.875df12c.js",
     "static/media/roblox_about.png": "/calfredo23/ws101-catimbang-navbar/static/media/roblox_about.0400f0b8c0a75f9c15a9.png",
     "static/media/computer.png": "/calfredo23/ws101-catimbang-navbar/static/media/computer.73f7eb87aa2e74d29f19.png",
     "static/media/roblox_logo.png": "/calfredo23/ws101-catimbang-navbar/static/media/roblox_logo.c69f0e62f2b08ec10687.png",
     "index.html": "/calfredo23/ws101-catimbang-navbar/index.html",
     "main.27900cbd.css.map": "/calfredo23/ws101-catimbang-navbar/static/css/main.27900cbd.css.map",
-    "main.5bbeeac3.js.map": "/calfredo23/ws101-catimbang-navbar/static/js/main.5bbeeac3.js.map"
+    "main.875df12c.js.map": "/calfredo23/ws101-catimbang-navbar/static/js/main.875df12c.js.map"
   },
   "entrypoints": [
     "static/css/main.27900cbd.css",
-    "static/js/main.5bbeeac3.js"
+    "static/js/main.875df12c.js"
   ]
 }
